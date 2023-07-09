@@ -125,7 +125,8 @@ main {
   text-align: center;
   width: 860px;
   height: 227px;
-  margin: 22.5px auto;
+  margin: 0px auto;
+  margin-top: 36px;
 }
 .band-title {
   position: absolute;
